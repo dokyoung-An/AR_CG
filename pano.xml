@@ -66,7 +66,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="140.418" tilt="-3.04693" pan="-91.8883" projection="4"/>
+      <start fov="140.418" tilt="-2.08029" pan="-178.057" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max fov="140" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330"/>
@@ -208,7 +208,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-175.042">
-      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <start fov="140.418" tilt="-0.212616" pan="-1.70326" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max fov="140" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330"/>
