@@ -385,7 +385,7 @@
     <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
       <label enabled="1" textcolor="0x000000" borderalpha="1" border="1" background="1" textalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot title="복도" id="Point01" skinid="ht_node" tilt="-6.54" description="" url="{node11}" target="" pan="-347.76"/>
+      <hotspot title="복도" id="Point01" skinid="ht_node" tilt="-19.19" description="" url="{node11}" target="" pan="-27.73"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomafterinfov="140" zoomout="0" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomoutpause="1" delay="none" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" zoomin="0" blendtime="1"/>
